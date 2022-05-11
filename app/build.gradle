@@ -9,7 +9,7 @@ android {
     defaultConfig {
         applicationId "com.xicheng.immerse.app"
         minSdk 29
-        targetSdk 31
+        targetSdk 30
         versionCode 1
         versionName "1.0"
 
@@ -32,6 +32,6 @@ android {
 }
 
 dependencies {
-    implementation project(':test')
     implementation project(':foundation:uilib')
+    implementation project(':test')
 }
