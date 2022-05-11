@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @Charlie-lsquare
-- 👀 I’m interested in Java/Android/Kotlin
-- 🌱 I’m currently learning Android 
-- 📫 How to reach me ->  lichengli_charlie@163.com
+# 一个Android的阅读应用
 
-<!---
-Charlie-lsquare/Charlie-lsquare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+##  说明
+前期使用 [View] 体系作为UI -》 后期有意向使用 [Compose] 作为UI。
