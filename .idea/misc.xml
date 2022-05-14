@@ -4,6 +4,8 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="foundation/uilib/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="read/src/main/res/layout/activity_read.xml" value="0.1" />
+        <entry key="read/src/main/res/layout/read_item_paper.xml" value="0.1" />
       </map>
     </option>
   </component>
