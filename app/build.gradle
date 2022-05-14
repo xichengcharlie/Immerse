@@ -32,6 +32,6 @@ android {
 }
 
 dependencies {
-    implementation project(':foundation:uilib')
-    implementation project(':test')
+    implementation project(':foundation')
+    implementation project(':read')
 }
